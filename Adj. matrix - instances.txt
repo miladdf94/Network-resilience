@@ -3,6 +3,8 @@
 
 # This file is a complementary file for paper "Robust-and-Cheap Framework for Network Resilience: A Novel Mixed-Integer Formulation and Solution Method".
 # We have generated 14 random graphs to demonstrated the numerical results.
+https://arxiv.org/abs/2110.09694
+
 # The adjacency matrices of all instance are presented as follows. 
 
 
